@@ -1,6 +1,6 @@
-import langclassifier
-from arabictext import ArabicClassifier
-from englishtext import EnglishClassifier
+import Phase4.langclassifier as langclassifier
+from Phase4.arabictext import ArabicClassifier
+from Phase4.englishtext import EnglishClassifier
 import nltk 
 #nltk.download("punkt_tab")
 #nltk.download("stopwords")

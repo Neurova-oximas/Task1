@@ -7,7 +7,7 @@ shared BaseTextClassifier pipeline.
 
 from nltk.stem.isri import ISRIStemmer
 
-from languagetext import BaseTextClassifier
+from Phase4.languagetext import BaseTextClassifier
 
 
 class ArabicClassifier(BaseTextClassifier):

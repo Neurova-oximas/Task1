@@ -7,7 +7,7 @@ shared BaseTextClassifier pipeline.
 
 from nltk.stem import WordNetLemmatizer
 
-from languagetext import BaseTextClassifier
+from Phase4.languagetext import BaseTextClassifier
 
 
 class EnglishClassifier(BaseTextClassifier):
